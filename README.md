@@ -32,12 +32,15 @@ Install the required packages using pip:
 pip install torch torchvision numpy matplotlib scikit-learn tqdm pillow
 ```
 
+Or Simply Run Code in Colab , set up your dataset in this format (#dataset-preparation)
+
+
 ## Installation
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/retinal-image-processing.git
-cd retinal-image-processing
+https://github.com/Andyqballer/Image-Resolution.git
+cd Image-Resolution
 ```
 
 ## Dataset Preparation
